@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 I'm constantly improving my skills to become an experienced FullStack Developer
 
 🌱 I’m currently doing personal small apps.
+
 👯 I’m looking to collaborate on Javascript, React.
+
 💬 Ask me about Anything.
+
 📫 you can reach out to me via:  
          Email: sumanghimire79@yahoo.com
          Linkedin : https://www.linkedin.com/in/sumanghimire/
