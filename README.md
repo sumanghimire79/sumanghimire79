@@ -23,7 +23,8 @@ I'm constantly improving my skills to become an experienced FullStack Developer
 
 👩‍🎓 Check out my Graduation Final Project at HYF: Simply Spices Webshop [Preview](https://staging-webshop-class20-fp.herokuapp.com/) | [GitHub](https://github.com/sumanghimire79/simply-spices)
 
-🌱 I recently finished individual project (JavaScript/Reactjs/Nodejs/Deployed on Heroku): MealSharingApp [Preview](https://hyf-meal-sharing-                      sumanghimire.herokuapp.com/) | [GitHub](https://github.com/sumanghimire79/meal-sharing)
+🌱 I recently finished individual project (JavaScript/Reactjs/Nodejs/Deployed on Heroku): 
+MealSharingApp [Preview](https://hyf-meal-sharing-sumanghimire.herokuapp.com/) | [GitHub](https://github.com/sumanghimire79/meal-sharing)
 
 🌱 Some other apps I have built: GitGub Links:[Paint on Canvas](https://github.com/sumanghimire79/hyf-homework/tree/master/javascript/javascript3/week3/js3w3-hw),
                   [Fastest Pressure Game](https://github.com/sumanghimire79/hyf-homework/tree/master/javascript/javascript2/week3/js2w3-hw),
