@@ -36,6 +36,6 @@ MealSharingApp [Preview](https://hyf-meal-sharing-sumanghimire.herokuapp.com/) |
 
 
 ### You can reach out to me via : 
-[Email](mailto:sumanghimire79@yahoo.com) , [Linkedin](https://www.linkedin.com/in/sumanghimire/) , [portfolio]( https://sumanghimireportfolio.herokuapp.com/portfolio)
+[Email](mailto:sumanghimire79@yahoo.com) , [Linkedin](https://www.linkedin.com/in/sumanghimire/) , [portfolio heroku]( https://sumanghimireportfolio.herokuapp.com/portfolio) , [portfolio netlify]( https://portfolio-sumanghimire.netlify.app/)
 
 
