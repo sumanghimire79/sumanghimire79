@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Denmark based full-stack web developer. i would like to work in recent web-stack mainly on react, node and mysql. 
+I am Denmark based full-stack web developer. I would like to work in recent web-stack mainly on react, node and mysql. 
 
 🌱 I’m currently doing personal small apps.
 
