@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am Denmark based full-stack web developer. I would like to work in recent web-stack mainly on react, node and mysql. 
 
-🌱 I’m currently doing .NET C# bootcamp.
+🌱 I’m currently learning .NET C# at a programming bootcamp 
 
 👯 I have finished a 35 weeks long Fullstack Development Bootcamp at Hack Your Future, Denmark
 
