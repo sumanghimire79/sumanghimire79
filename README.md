@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 I am Denmark based full-stack web developer. I would like to work in recent web-stack mainly on react, node and mysql. 
 
-🌱 I’m currently doing personal small apps.
+🌱 I’m currently doing .NET C# bootcamp.
 
-👯 I have recently finished a 35 weeks long Fullstack Development Bootcamp at Hack Your Future, Denmark
+👯 I have finished a 35 weeks long Fullstack Development Bootcamp at Hack Your Future, Denmark
 
 👩‍🎓 Check out my Graduation Final Project at HYF: Simply Spices Webshop [Preview](https://staging-webshop-class20-fp.herokuapp.com/) | [GitHub](https://github.com/sumanghimire79/simply-spices)
 
@@ -30,7 +30,7 @@ MealSharingApp [Preview](https://hyf-meal-sharing-sumanghimire.herokuapp.com/) |
                   [Fastest Pressure Game](https://github.com/sumanghimire79/hyf-homework/tree/master/javascript/javascript2/week3/js2w3-hw),
                   [Weather App](https://github.com/sumanghimire79/hyf-homework/blob/master/javascript/javascript3/week1/js3w1hw)
 
-👯 I’m looking to collaborate on Javascript, React.
+👯 I’m looking to collaborate on React-Node-MySQL
 
 💬 Ask me about Anything.
 
