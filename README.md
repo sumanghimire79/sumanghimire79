@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Denmark based full-stack web developer. I would like to work in recent web-stack mainly on react, node and mysql. 
+I am Denmark based full-stack web developer. I am upskilled in react-node-mysql, C# .Net
 
-🌱 I’m currently learning .NET C# at a programming bootcamp 
+🌱 I’ve recently completed .NET C# programming bootcamp at Visma e-conomic in collaboration with HAck Your Future, Denmark
 
-👯 I have finished a 35 weeks long Fullstack Development Bootcamp at Hack Your Future, Denmark
+👯 I have also completed a 34 weeks long Fullstack Development programming bootcamp at Hack Your Future, Denmark
 
 👩‍🎓 Check out my Graduation Final Project at HYF: Simply Spices Webshop [Preview](https://staging-webshop-class20-fp.herokuapp.com/) | [GitHub](https://github.com/sumanghimire79/simply-spices)
 
