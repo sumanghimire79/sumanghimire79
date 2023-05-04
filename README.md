@@ -30,10 +30,9 @@ MealSharingApp [Preview](https://hyf-meal-sharing-sumanghimire.herokuapp.com/) |
                   [Fastest Pressure Game](https://github.com/sumanghimire79/hyf-homework/tree/master/javascript/javascript2/week3/js2w3-hw),
                   [Weather App](https://github.com/sumanghimire79/hyf-homework/blob/master/javascript/javascript3/week1/js3w1hw)
 
-👯 I’m looking to collaborate on React-Node-MySQL
+👯 Having a general profile in IT and recent upskills in full-stack web development, I’m looking to collaborate on any job role within IT
 
 💬 Ask me about Anything.
-
 
 ### You can reach out to me via : 
 [Email](mailto:sumanghimire79@yahoo.com) , [Linkedin](https://www.linkedin.com/in/sumanghimire/) , [portfolio heroku]( https://sumanghimireportfolio.herokuapp.com/portfolio) , [portfolio netlify]( https://portfolio-sumanghimire.netlify.app/)
