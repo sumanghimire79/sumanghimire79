@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Denmark based full-stack web developer. I am upskilled in react-node-mysql, C# .Net
+I am Denmark based full-stack web developer. I am upskilled in.NET MVC Core, react-node-mysql
+
+🌱 I’ve recently completed advanced C# course, where I worked on challenging topics like advanced data structures, asynchronous programming, and object-oriented programming
 
 🌱 I’ve recently completed .NET C# programming bootcamp at Visma e-conomic in collaboration with HAck Your Future, Denmark
 
